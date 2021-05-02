@@ -10,7 +10,9 @@ Deaths
 Recovered
 Lattitude
 Longitude
-And we have added the feature of Temperature and Humidity for Latitude and Longitude using Python’s Weather API – Pyweatherbit. A common perception about COVID-19 is that Warm Climate is more resistant to the corona outbreak and we need to verify this using Hypothesis Testing. So what will our null and alternate hypothesis be?
+
+I have added the feature of Temperature and Humidity for Latitude and Longitude using Python’s Weather API – Pyweatherbit (https://www.weatherbit.io/)
+. A common perception about COVID-19 is that Warm Climate is more resistant to the corona outbreak and we need to verify this using Hypothesis Testing. So what will our null and alternate hypothesis be?
 
 Null Hypothesis: Temperature doesn’t affect COV-19 Outbreak
 Alternate Hypothesis: Temperature does affect COV-19 Outbreak
